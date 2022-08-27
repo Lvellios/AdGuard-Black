@@ -1,0 +1,12 @@
+*://*.pornhub.com/*
+*://*.independent.co.uk/*
+*://*.gotoquiz.com/*
+*://*.medium.com/*
+*://*.gaofengadv.com/*
+*://*.a-msedge.net/*
+*://*.gaofengadv.com/*
+*://*.quora.com/*
+*://*.gizmochina.com/*
+*://*.zaobao.com/*
+*://*.zaobao.com.sg/*
+*://*.sinovision.net/*
