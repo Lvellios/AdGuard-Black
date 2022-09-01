@@ -1,3 +1,5 @@
+||gitee.com^
+||.gitee.com^
 ||1905.com^
 ||.1905.com^
 ||huijiwiki.com^
@@ -160,6 +162,8 @@
 ||.baidu.com^
 ||zhihu.com^
 ||.zhihu.com^
+||zhimg.com^
+||.zhimg.com^
 ||xhby.net^
 ||.xhby.net^
 ||wanweibaike.net^
