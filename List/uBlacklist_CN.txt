@@ -203,6 +203,7 @@
 *://*.eastday.com/*
 *://*.baike.baidu.hk/*
 *://*.baidu.hk/*
+*://*.tieba.com/*
 *://*.baidu.com/*
 *://*.toutiao.com/*
 *://*.songzixw.cn/*
