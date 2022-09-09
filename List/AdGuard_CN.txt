@@ -160,6 +160,8 @@
 ||.news.qq.com^
 ||xw.qq.com^
 ||.xw.qq.com^
+||tieba.com^
+||.tieba.com^
 ||baidu.com^
 ||.baidu.com^
 ||zhihu.com^
