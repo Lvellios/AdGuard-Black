@@ -1,1 +1,2 @@
+*://*.ferra.ru/*
 *://*.themoscowtimes.com/*
