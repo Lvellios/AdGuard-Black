@@ -1,4 +1,5 @@
 *://*.cn/*
+*://*.petssky.com/*
 *://*.oushinet.com/*
 *://*.1905.com/*
 *://*.huijiwiki.com/*
