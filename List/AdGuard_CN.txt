@@ -1,3 +1,5 @@
+||petssky.com^
+||.petssky.com^
 ||oushinet.com^
 ||.oushinet.com^
 ||gitee.com^
