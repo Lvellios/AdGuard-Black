@@ -1,3 +1,5 @@
+||caixin.com^
+||.caixin.com^
 ||petssky.com^
 ||.petssky.com^
 ||oushinet.com^
