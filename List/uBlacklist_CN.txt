@@ -1,4 +1,5 @@
 *://*.cn/*
+*://*.v2ex.com/*
 *://*.caixin.com/*
 *://*.petssky.com/*
 *://*.oushinet.com/*
