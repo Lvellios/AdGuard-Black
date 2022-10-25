@@ -1,4 +1,5 @@
 *://*.cn/*
+*://*.myzaker.com/*
 *://*.v2ex.com/*
 *://*.caixin.com/*
 *://*.petssky.com/*
