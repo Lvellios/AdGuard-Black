@@ -1,3 +1,5 @@
+||tiktok.com^
+||.tiktok.com^
 ||myzaker.com^
 ||.myzaker.com^
 ||v2ex.com^
