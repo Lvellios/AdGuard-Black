@@ -1,8 +1,8 @@
 *://*.cn/*
-*://*.trustutn.org.cn
-*://*.360doc.cn
-*://*.360doc.net
-*://*.360doc.com
+*://*.trustutn.org/*
+*://*.360doc.cn/*
+*://*.360doc.net/*
+*://*.360doc.com/*
 *://*.tiktok.com/*
 *://*.myzaker.com/*
 *://*.v2ex.com/*
