@@ -34,7 +34,6 @@
 *://*.mcmod.cn/*
 *://*.ruoji.cn/*
 *://*.kepuchina.cn/*
-*://*.mbalib.com/*
 *://*.baikemy.com/*
 *://*.cnki.net/*
 *://*.baike.so.com/*
@@ -65,7 +64,6 @@
 *://*.ifengweekly.com/*
 *://*.news.163.com/*
 *://*.news.qq.com/*
-*://*.hao123.com/*
 *://*.xhby.net/*
 *://*.wanweibaike.net/*
 *://*.beijing2022.cn/*
@@ -229,7 +227,6 @@
 *://*.oschina.net/*
 *://*.znds.com/*
 *://*.huawei.com/*
-*://*.huaweicloud.com/*
 *://*.csdn.net/*
 *://*.pconline.com.cn/*
 *://*.pincong.org/*
@@ -242,7 +239,6 @@
 *://*.mbalib.com/*
 *://*.so.com/*
 *://*.sogou.com/*
-*://*.360.com/*
 *://*.sina.com.cn/*
 *://*.sina.com/*
 *://*.douban.com/*
@@ -260,7 +256,6 @@
 *://*.smzdm.com/*
 *://*.chinaso.com/*
 *://*.bdimg.com/*
-*://*.baike.com/*
 *://*.gov.cn/*
 *://*.jstv.com/*
 *://*.guilinlife.com/*
