@@ -1,4 +1,5 @@
 ||*.cn^
+||marxists.org^
 ||trustutn.org^
 ||360doc.cn^
 ||360doc.net^
