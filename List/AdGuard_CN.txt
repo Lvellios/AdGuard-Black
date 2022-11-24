@@ -1,4 +1,5 @@
 ||*.cn^
+||36kr.com^
 ||marxists.org^
 ||trustutn.org^
 ||360doc.cn^
