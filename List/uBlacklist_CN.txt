@@ -1,4 +1,7 @@
 *://*.cn/*
+*://*.ngabbs.com/*
+*://*.redian.news/*
+*://*.douyin.com/*
 *://*.enjoyz.com/*
 *://*.shxwcb.com/*
 *://*.zhidx.com/*
