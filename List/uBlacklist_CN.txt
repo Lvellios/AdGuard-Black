@@ -1,4 +1,13 @@
 *://*.cn/*
+*://*.enjoyz.com/*
+*://*.shxwcb.com/*
+*://*.zhidx.com/*
+*://*.hndnews.com/*
+*://*.iot101.com/*
+*://*.cqliving.com/*
+*://*.easemob.com/*
+*://*.mittrchina.com/*
+*://*.ckxx.net/*
 *://*.zhoudaosh.com/*
 *://*.wicinternet.org/*
 *://*.bjtitle.com/*
