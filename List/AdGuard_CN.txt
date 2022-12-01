@@ -1,4 +1,16 @@
 ||*.cn^
+||zhoudaosh.com^
+||wicinternet.org^
+||bjtitle.com^
+||zuqiubao.info^
+||qtx.com^
+||tianmunews.com^
+||ppsport.com^
+||eastday.com^
+||dutenews.com^
+||tjyun.com^
+||shobserver.com^
+||kaiwind.com^
 ||36kr.com^
 ||marxists.org^
 ||trustutn.org^
