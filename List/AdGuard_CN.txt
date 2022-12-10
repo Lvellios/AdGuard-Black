@@ -1,6 +1,8 @@
 ||*.cn^
-||ngabbs.com
-||redian.news
+||gcores.com^
+||csdn.net^
+||ngabbs.com^
+||redian.news^
 @@||douyin.com^
 ||enjoyz.com^
 ||shxwcb.com^
