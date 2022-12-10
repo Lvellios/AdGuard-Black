@@ -1,4 +1,5 @@
 *://*.cn/*
+*://*.gcores.com/*
 *://*.ngabbs.com/*
 *://*.redian.news/*
 *://*.douyin.com/*
