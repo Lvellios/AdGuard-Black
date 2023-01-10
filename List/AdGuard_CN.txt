@@ -1,4 +1,5 @@
 ||*.cn^
+||bnacg.com^
 ||gcores.com^
 ||csdn.net^
 ||ngabbs.com^
