@@ -248,6 +248,7 @@
 *://*.tencent.com/*
 *://*.aliyun.com/*
 *://*.gitee.com/*
+*://*.gitee.io/*
 *://*.cnpmjs.org/*
 *://*.fastgit.org/*
 *://*.360kuai.com/*
