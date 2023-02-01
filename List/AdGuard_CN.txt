@@ -40,6 +40,7 @@
 ||petssky.com^
 ||oushinet.com^
 ||gitee.com^
+||gitee.io^
 ||1905.com^
 ||huijiwiki.com^
 ||lllst.com^
