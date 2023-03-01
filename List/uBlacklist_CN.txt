@@ -1,4 +1,7 @@
 *://*.cn/*
+*://*.ofweek.com/*
+*://*.jihulab.com/*
+*://*.gitlab.cn/*
 *://*.126.net/*
 *://*.bnacg.com/*
 *://*.gcores.com/*
