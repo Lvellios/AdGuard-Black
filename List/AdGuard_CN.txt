@@ -1,11 +1,14 @@
 ||*.cn^
+||ofweek.com^
+||jihulab.com^
+||gitlab.cn^
 ||126.net^
 ||bnacg.com^
 ||gcores.com^
 ||csdn.net^
 ||ngabbs.com^
 ||redian.news^
-@@||douyin.com^
+||douyin.com^
 ||enjoyz.com^
 ||shxwcb.com^
 ||zhidx.com^
