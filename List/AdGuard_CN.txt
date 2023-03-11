@@ -1,4 +1,5 @@
 ||*.cn^
+||vibaike.com^
 ||ofweek.com^
 ||jihulab.com^
 ||gitlab.cn^
