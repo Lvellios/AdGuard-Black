@@ -25,7 +25,6 @@
 *://*.qtx.com/*
 *://*.tianmunews.com/*
 *://*.ppsport.com/*
-*://*.eastday.com/*
 *://*.dutenews.com/*
 *://*.tjyun.com/*
 *://*.shobserver.com/*
