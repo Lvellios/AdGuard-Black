@@ -1,5 +1,11 @@
 *://*.cn/*
 *://*.com.cn/*
+*://*.net.cn/*
+*://*.gov.cn/*
+*://*.edu.cn/*
+*://*.org.cn/*
+*://*.cn.cn/*
+*://*.ac.cn/*
 *://*cn.*.com/*
 *://*.xjishu.com/*
 *://*.oshwhub.com/*
@@ -311,7 +317,6 @@
 *://*.smzdm.com/*
 *://*.chinaso.com/*
 *://*.bdimg.com/*
-*://*.gov.cn/*
 *://*.jstv.com/*
 *://*.guilinlife.com/*
 *://*.scol.com.cn/*
