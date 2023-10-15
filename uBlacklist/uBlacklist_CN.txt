@@ -1,4 +1,6 @@
 *://*.cn/*
+*://*.com.cn/*
+*://*cn.*.com/*
 *://*.xjishu.com/*
 *://*.oshwhub.com/*
 *://*.openeuler.org/*
